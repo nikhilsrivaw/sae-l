@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-react-app:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "Bash(npm start)",
+      "Bash(rm:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:er-raj-aryan.github.io)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(taskkill:*)"
+    ],
+    "deny": []
+  }
+}
